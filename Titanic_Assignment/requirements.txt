@@ -1,0 +1,12 @@
+
+---
+
+# 11. What to put in `requirements.txt`
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
